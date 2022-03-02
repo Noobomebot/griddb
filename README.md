@@ -8,7 +8,7 @@
 
   Please refer to [GridDB Features Reference](https://github.com/griddb/docs-en/blob/master/manuals/GridDB_FeaturesReference.md) for functionality.
 
-  This repository includes server and Java client. And [jdbc repository](https://github.com/griddb/jdbc) includes JDBC Driver.
+  This repository includes server and Java client. And [jdbc repository](https://github.com/@I_am_dead_mrX/jdbc) includes JDBC Driver.
 
 ## Quick start (Using source code)
   We have confirmed the operation on CentOS 7.6 (gcc 4.8.5), Ubuntu 18.04 (gcc 4.8.5) and openSUSE Leap 15.1 (gcc 4.8.5).
